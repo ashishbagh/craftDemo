@@ -1,0 +1,32 @@
+.table {
+  color: white;
+  justify-content: left;
+  margin: 2rem;
+  display: flex;
+}
+
+.rows {
+  display: flex;
+  padding: 2px;
+  margin: 1rem;
+  color: white;
+}
+
+.mar {
+  margin: 1rem;
+}
+
+.sections {
+  margin-right: 23px;
+  display: flex;
+  width: 100%;
+  justify-content: left;
+}
+
+.sect {
+  margin: 5px;
+  font-weight: bold;
+  display: flex;
+  text-decoration: none;
+  color: blue;
+}

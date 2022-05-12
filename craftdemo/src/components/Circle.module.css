@@ -1,0 +1,17 @@
+.body {
+  background: #5a145a;
+  border-radius: 39px;
+}
+
+.circle {
+  color: white;
+  font-weight: bold;
+  padding: 32px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2px;
+}
